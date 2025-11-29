@@ -1,0 +1,6 @@
+@InclusaoDiversidade_HostAddress = http://localhost:5167
+
+GET {{InclusaoDiversidade_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\bin\Debug\net8.0\InclusaoDiversidade.Application.deps.json
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\bin\Debug\net8.0\InclusaoDiversidade.Application.dll
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\bin\Debug\net8.0\InclusaoDiversidade.Application.pdb
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\bin\Debug\net8.0\InclusaoDiversidade.Domain.dll
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\bin\Debug\net8.0\InclusaoDiversidade.Domain.pdb
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.csproj.AssemblyReference.cache
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.AssemblyInfoInputs.cache
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.AssemblyInfo.cs
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\obj\Debug\net8.0\Inclusao.DEB338C4.Up2Date
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.dll
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\obj\Debug\net8.0\refint\InclusaoDiversidade.Application.dll
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.pdb
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\obj\Debug\net8.0\ref\InclusaoDiversidade.Application.dll

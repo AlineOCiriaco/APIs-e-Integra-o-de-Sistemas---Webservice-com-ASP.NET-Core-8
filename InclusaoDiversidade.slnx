@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="InclusaoDiversidade.Application/InclusaoDiversidade.Application.csproj" />
+  <Project Path="InclusaoDiversidade.Domain/InclusaoDiversidade.Domain.csproj" />
+  <Project Path="InclusaoDiversidade.Infrastructure/InclusaoDiversidade.Infrastructure.csproj" />
+  <Project Path="InclusaoDiversidade/InclusaoDiversidade.csproj" />
+</Solution>

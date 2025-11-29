@@ -1,0 +1,17 @@
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\bin\Debug\net8.0\InclusaoDiversidade.Infrastructure.deps.json
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\bin\Debug\net8.0\InclusaoDiversidade.Infrastructure.runtimeconfig.json
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\bin\Debug\net8.0\InclusaoDiversidade.Infrastructure.dll
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\bin\Debug\net8.0\InclusaoDiversidade.Infrastructure.pdb
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\bin\Debug\net8.0\InclusaoDiversidade.Domain.dll
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\bin\Debug\net8.0\InclusaoDiversidade.Domain.pdb
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\obj\Debug\net8.0\InclusaoDiversidade.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\obj\Debug\net8.0\InclusaoDiversidade.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\obj\Debug\net8.0\InclusaoDiversidade.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\obj\Debug\net8.0\InclusaoDiversidade.Infrastructure.AssemblyInfo.cs
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\obj\Debug\net8.0\InclusaoDiversidade.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\obj\Debug\net8.0\Inclusao.02CC5A6F.Up2Date
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\obj\Debug\net8.0\InclusaoDiversidade.Infrastructure.dll
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\obj\Debug\net8.0\refint\InclusaoDiversidade.Infrastructure.dll
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\obj\Debug\net8.0\InclusaoDiversidade.Infrastructure.pdb
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\obj\Debug\net8.0\InclusaoDiversidade.Infrastructure.genruntimeconfig.cache
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Infrastructure\obj\Debug\net8.0\ref\InclusaoDiversidade.Infrastructure.dll

@@ -1,0 +1,11 @@
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Domain\bin\Debug\net8.0\InclusaoDiversidade.Domain.deps.json
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Domain\bin\Debug\net8.0\InclusaoDiversidade.Domain.dll
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Domain\bin\Debug\net8.0\InclusaoDiversidade.Domain.pdb
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Domain\obj\Debug\net8.0\InclusaoDiversidade.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Domain\obj\Debug\net8.0\InclusaoDiversidade.Domain.AssemblyInfoInputs.cache
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Domain\obj\Debug\net8.0\InclusaoDiversidade.Domain.AssemblyInfo.cs
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Domain\obj\Debug\net8.0\InclusaoDiversidade.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Domain\obj\Debug\net8.0\InclusaoDiversidade.Domain.dll
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Domain\obj\Debug\net8.0\refint\InclusaoDiversidade.Domain.dll
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Domain\obj\Debug\net8.0\InclusaoDiversidade.Domain.pdb
+C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Domain\obj\Debug\net8.0\ref\InclusaoDiversidade.Domain.dll
