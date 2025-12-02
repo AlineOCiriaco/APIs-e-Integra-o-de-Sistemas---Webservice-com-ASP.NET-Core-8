@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\InclusaoDiversidade.Application\InclusaoDiversidade.Application.csproj" />
     <ProjectReference Include="..\InclusaoDiversidade.Domain\InclusaoDiversidade.Domain.csproj" />
   </ItemGroup>
 

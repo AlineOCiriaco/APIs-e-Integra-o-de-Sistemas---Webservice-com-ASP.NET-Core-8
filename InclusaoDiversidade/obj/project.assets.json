@@ -1623,6 +1623,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "InclusaoDiversidade.Application": "1.0.0",
           "InclusaoDiversidade.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.22"
         },
@@ -4533,23 +4534,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aline\\.nuget\\packages\\": {},
+    "C:\\Users\\Pichau\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aline\\source\\repos\\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\\InclusaoDiversidade\\InclusaoDiversidade.csproj",
+      "projectUniqueName": "C:\\Users\\Pichau\\source\\repos\\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\\InclusaoDiversidade\\InclusaoDiversidade.csproj",
       "projectName": "InclusaoDiversidade",
-      "projectPath": "C:\\Users\\Aline\\source\\repos\\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\\InclusaoDiversidade\\InclusaoDiversidade.csproj",
-      "packagesPath": "C:\\Users\\Aline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aline\\source\\repos\\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\\InclusaoDiversidade\\obj\\",
+      "projectPath": "C:\\Users\\Pichau\\source\\repos\\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\\InclusaoDiversidade\\InclusaoDiversidade.csproj",
+      "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pichau\\source\\repos\\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\\InclusaoDiversidade\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Aline\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4558,18 +4559,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Aline\\source\\repos\\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\\InclusaoDiversidade.Application\\InclusaoDiversidade.Application.csproj": {
-              "projectPath": "C:\\Users\\Aline\\source\\repos\\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\\InclusaoDiversidade.Application\\InclusaoDiversidade.Application.csproj"
+            "C:\\Users\\Pichau\\source\\repos\\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\\InclusaoDiversidade.Application\\InclusaoDiversidade.Application.csproj": {
+              "projectPath": "C:\\Users\\Pichau\\source\\repos\\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\\InclusaoDiversidade.Application\\InclusaoDiversidade.Application.csproj"
             },
-            "C:\\Users\\Aline\\source\\repos\\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\\InclusaoDiversidade.Infrastructure\\InclusaoDiversidade.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Aline\\source\\repos\\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\\InclusaoDiversidade.Infrastructure\\InclusaoDiversidade.Infrastructure.csproj"
+            "C:\\Users\\Pichau\\source\\repos\\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\\InclusaoDiversidade.Infrastructure\\InclusaoDiversidade.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Pichau\\source\\repos\\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\\InclusaoDiversidade.Infrastructure\\InclusaoDiversidade.Infrastructure.csproj"
             }
           }
         }
