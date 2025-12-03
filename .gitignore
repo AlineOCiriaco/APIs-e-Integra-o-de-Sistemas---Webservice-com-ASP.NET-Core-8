@@ -1,1 +1,18 @@
+## Visual Studio
 .vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+## Específico do projeto
+**/obj/
+**/bin/
+*.cache
+/InclusaoDiversidade/Program.cs
