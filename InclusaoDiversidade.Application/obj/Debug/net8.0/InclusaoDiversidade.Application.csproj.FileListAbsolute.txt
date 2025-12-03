@@ -13,3 +13,12 @@ C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\
 C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\obj\Debug\net8.0\refint\InclusaoDiversidade.Application.dll
 C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.pdb
 C:\Users\Aline\source\repos\InclusaoDiversidade\InclusaoDiversidade.Application\obj\Debug\net8.0\ref\InclusaoDiversidade.Application.dll
+C:\Users\Pichau\source\repos\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.sourcelink.json
+C:\Users\Pichau\source\repos\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.dll
+C:\Users\Pichau\source\repos\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\InclusaoDiversidade.Application\obj\Debug\net8.0\refint\InclusaoDiversidade.Application.dll
+C:\Users\Pichau\source\repos\APIs-e-Integra-o-de-Sistemas---Webservice-com-ASP.NET-Core-8\InclusaoDiversidade.Application\obj\Debug\net8.0\InclusaoDiversidade.Application.pdb

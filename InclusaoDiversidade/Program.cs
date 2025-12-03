@@ -1,3 +1,4 @@
+using InclusaoDiversidade.Application.Services;
 using InclusaoDiversidade.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 
@@ -6,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddScoped<IDiversityReportService, DiversityReportService>();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 //builder.Services.AddOpenApi();
 
