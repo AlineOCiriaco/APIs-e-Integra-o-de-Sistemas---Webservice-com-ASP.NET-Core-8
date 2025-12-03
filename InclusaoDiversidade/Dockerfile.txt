@@ -1,0 +1,38 @@
+# Usa o SDK 8.0 para restaurar dependências e compilar o código.
+# ------------------------------------------------------------------
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /src
+
+# Copia os arquivos de projeto (CSProj) e restaura as dependências
+# Copia a Solution e os arquivos de projeto de cada camada para garantir o restore
+COPY InclusaoDiversidade.sln .
+COPY InclusaoDiversidade.API/*.csproj InclusaoDiversidade.API/
+COPY InclusaoDiversidade.Application/*.csproj InclusaoDiversidade.Application/
+COPY Inclusividade.Domain/*.csproj InclusaoDiversidade.Domain/
+COPY InclusaoDiversidade.Infrastructure/*.csproj InclusaoDiversidade.Infrastructure/
+
+# Restaura as dependências NuGet
+RUN dotnet restore InclusaoDiversidade.sln
+
+# Copia o restante dos arquivos (código, controllers, etc.)
+COPY . .
+
+# Compila o projeto API (o ponto de entrada)
+WORKDIR /src/InclusaoDiversidade.API
+RUN dotnet publish "InclusaoDiversidade.API.csproj" -c Release -o /app/publish
+
+# ------------------------------------------------------------------
+# Estágio 2: Final (Runtime)
+# Usa a imagem mais leve do ASP.NET para executar a aplicação
+# ------------------------------------------------------------------
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
+WORKDIR /app
+
+# Exponha a porta padrão do ASP.NET Core
+EXPOSE 8080
+
+# Copia os arquivos publicados do estágio de build
+COPY --from=build /app/publish .
+
+# Define o ponto de entrada da aplicação
+ENTRYPOINT ["dotnet", "InclusaoDiversidade.API.dll"]
